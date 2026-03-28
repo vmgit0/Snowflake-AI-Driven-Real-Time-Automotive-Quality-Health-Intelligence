@@ -22,7 +22,19 @@ Enables proactive maintenance, reduces downtime, and improves EV reliability thr
 
 # AI-Quality Insight
 
-![image alt](https://github.com/vmgit0/Snowflake-AI-Driven-Real-Time-Automotive-Quality-Health-Intelligence/blob/b2c27ec7cc7a788b49710177c4017b06e0a3dc4f/Quality.png)
+![image alt](https://github.com/vmgit0/Snowflake-AI-Driven-Real-Time-Automotive-Quality-Health-Intelligence/blob/55a8339fdf4de93fdf2438d6d9f8dcf612839ad0/assets/Quality.png)
+
+# Maintenance Recommendation
+
+![image alt](https://github.com/vmgit0/Snowflake-AI-Driven-Real-Time-Automotive-Quality-Health-Intelligence/blob/55a8339fdf4de93fdf2438d6d9f8dcf612839ad0/assets/Maintenance.png)
+
+# Root Cause Analysis
+
+![image alt](https://github.com/vmgit0/Snowflake-AI-Driven-Real-Time-Automotive-Quality-Health-Intelligence/blob/55a8339fdf4de93fdf2438d6d9f8dcf612839ad0/assets/RootCause.png)
+
+# App
+
+![image alt](https://github.com/vmgit0/Snowflake-AI-Driven-Real-Time-Automotive-Quality-Health-Intelligence/blob/55a8339fdf4de93fdf2438d6d9f8dcf612839ad0/assets/App.png)
 
 ✅ Key Results
 📈 Successfully processed and analyzed real-time EV telemetry data (battery, motor, usage signals)
@@ -57,6 +69,7 @@ Replacement decisions
 ⬆️ Improved EV reliability and performance
 🧑‍🔧 Enabled proactive maintenance instead of reactive fixes
 💰 Potential cost savings in servicing and downtime
+
 🎯 Final Outcome
 
 An end-to-end AI-powered EV monitoring system that:
