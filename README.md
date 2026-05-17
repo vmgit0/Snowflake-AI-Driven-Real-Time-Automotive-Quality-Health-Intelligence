@@ -14,6 +14,14 @@ The system processes EV telemetry data (battery, motor, and usage signals) to de
 
 Snowflake • SQL • Snowflake Cortex AI • Python • Streamlit
 
+## 📂 Dataset
+
+This project uses dataset from Kaggle.
+
+### Kaggle Dataset Link
+
+- 🔗 [https://www.kaggle.com/datasets/datasetengineer/eviot-predictivemaint-dataset/data]
+
 ### 💼 Impact
 
 Enables proactive maintenance, reduces downtime, and improves EV reliability through data-driven decision-making.
